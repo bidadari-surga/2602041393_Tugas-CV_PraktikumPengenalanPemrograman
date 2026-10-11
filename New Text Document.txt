@@ -1,0 +1,5 @@
+<p>Nama: Kayla Najwa Hasanah</p>
+            <p>Tempat, Tanggal Lahir: Jombang, 11 Mei 2008</p>
+            <p>Jenis Kelamin: Perempuan</p>
+            <p>Status: Mahasiswa</p>
+            <p>Kewarganegaraan: Indonesia</p>
